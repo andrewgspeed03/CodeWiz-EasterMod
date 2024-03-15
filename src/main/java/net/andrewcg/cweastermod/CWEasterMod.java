@@ -1,5 +1,6 @@
 package net.andrewcg.cweastermod;
 
+import net.andrewcg.cweastermod.block.ModBlocks;
 import net.andrewcg.cweastermod.item.ModItemGroups;
 import net.andrewcg.cweastermod.item.ModItems;
 import net.fabricmc.api.ModInitializer;

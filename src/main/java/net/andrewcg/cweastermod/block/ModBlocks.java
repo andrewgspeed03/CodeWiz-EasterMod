@@ -12,7 +12,7 @@ import net.minecraft.registry.Registry;
 import net.minecraft.sound.BlockSoundGroup;
 import net.minecraft.util.Identifier;
 
-public class ModBlocks{
+public class ModBlocks {
 
     public static final Block EGG_BLOCK = registerBlock("egg_block",
         new Block(FabricBlockSettings.copyOf(Blocks.BONE_BLOCK)));

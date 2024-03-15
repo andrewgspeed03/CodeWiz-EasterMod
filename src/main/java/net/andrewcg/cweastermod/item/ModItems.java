@@ -25,7 +25,5 @@ public class ModItems {
 
     public static void registerModItems(){
         CWEasterMod.LOGGER.info("Registering Mod Items for " + CWEasterMod.MOD_ID);
-
-        ItemGroupEvents.modifyEntriesEvent(ItemGroups.INGREDIENTS).register(ModItems::addItemsToIngredientItemGroup);
     }
 }
