@@ -3,7 +3,7 @@
 	"id": "cw-eastermod",
 	"version": "${version}",
 	"name": "CW EasterMod",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "This is a mod that makes a easter egg hunt minigame",
 	"authors": [
 		"Me!"
 	],
