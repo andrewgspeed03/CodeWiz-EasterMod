@@ -22,7 +22,7 @@ public class ModModelProvider extends FabricModelProvider{
 
     @Override
     public void generateItemModels(ItemModelGenerator itemModelGenerator) {
-        itemModelGenerator.register(ModItems.EASTER_EGG, Models.GENERATED)
+        itemModelGenerator.register(ModItems.EASTER_EGG, Models.GENERATED);
     }
 
 }
